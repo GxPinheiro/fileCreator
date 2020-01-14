@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<filecreator>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.gxpinheiro.filecreator.DemoApplication",
+            "projectName": "filecreator",
+            "args": ""
+        }
+    ]
+}
